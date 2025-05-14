@@ -1,0 +1,4 @@
+aiogram==2.23.1
+pymongo==4.4.0
+twilio==8.5.0
+python-dotenv==1.0.0
